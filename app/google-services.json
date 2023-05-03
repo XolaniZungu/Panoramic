@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662707188084",
+    "firebase_url": "https://appoinment-ebccd-default-rtdb.firebaseio.com",
+    "project_id": "appoinment-ebccd",
+    "storage_bucket": "appoinment-ebccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662707188084:android:bac2b0beba6619ab1a3c21",
+        "android_client_info": {
+          "package_name": "com.example.patientdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662707188084-rga2r1ci0s9ot1uieinlai3frhmbq4n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFf0ahwVvbmloDB_fKm_AZpFDSoAJfAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662707188084-gpk1l4vmb07uatf4dknpq4j7amgv5hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

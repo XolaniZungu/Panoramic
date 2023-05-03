@@ -1,0 +1,2 @@
+rootProject.name = "Panoramic"
+include ':app'
